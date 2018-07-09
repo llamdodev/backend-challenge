@@ -60,7 +60,7 @@ should return
 
 Requirements:
 - we want to number the versions from 1 to N as they are uploaded for the application
-- this number must be unique, and it is likely that 2 uploads happen at the same time for the same application
+- this number must be unique per application, and it is likely that 2 uploads happen at the same time for the same application
 - a version always has the status `new` when uploaded
 
 ### Create a comparison
@@ -112,7 +112,7 @@ should return
   applicationId: { foreign key to an application }
   headVersionId: { id of the "recent" version }
   baseVersionId: { id of the "base" version, i.e. the one taken as a reference }
-  status: "pending"
+  status: { same as passed in }
 }
 ```
 
