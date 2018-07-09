@@ -3,7 +3,7 @@
 
 This repository is a first touch at a backend service to serve the data for Waldo.
 
-We describe the needs of a client of this API, and you should write the proper service for it, by implementing all the different endpoints below.
+We describe the needs of a client of this API. Your goal is to write the service, by implementing all the endpoints described below.
 
 Questions are always welcome at developers@waldo.io
 
