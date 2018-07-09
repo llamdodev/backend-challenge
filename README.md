@@ -27,7 +27,7 @@ should return
   identifier: { same as passed in }
 }
 ```
-The only requirement here is that the identifier should be defined and unique among all application in our
+The only requirement here is that the identifier should be defined and unique among all applications in our
 system.
 
 ### Add a new version
@@ -125,3 +125,4 @@ Rules:
 - We tend to pay attention to the organization of code
 - (bonus) Provide testing
 - (bonus) Provide a section of how you would deploy this code
+- (bonus) How would you handle the failure scenario for comparisons? (e.g. no PATCH request is ever received)
