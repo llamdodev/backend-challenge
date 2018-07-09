@@ -2,7 +2,11 @@
 # backend-challenge
 
 This repository is a first touch at a backend service to serve the data for Waldo.
-We describe the needs of a client of this API, and you should write the proper service for it.
+
+We describe the needs of a client of this API, and you should write the proper service for it, by implementing all the different endpoints below.
+
+Questions are always welcome at developers@waldo.io
+
 If you're wondering what this API is actually used for, you can have a look at https://github.com/waldoapp/frontend-challenge
 for our end goal.
 
