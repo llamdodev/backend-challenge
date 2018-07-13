@@ -10,6 +10,16 @@ Questions are always welcome at developers@waldo.io
 If you're wondering what this API is actually used for, you can have a look at https://github.com/waldoapp/frontend-challenge
 for our end goal.
 
+# Guidelines
+
+- you should write the code in node 7.6+
+- favor a relational database
+- We should be able to run the code on our end in a few steps. Please provide a comprehensive README
+- We tend to pay attention to the organization of code
+- (bonus) Provide testing
+- (bonus) Provide a section of how you would deploy this code
+- (bonus) How would you handle the failure scenario for comparisons? (e.g. no PATCH request is ever received)
+
 # Flow of actions
 
 The client needs to
@@ -120,13 +130,3 @@ Rules:
 - only the status can be edited for a build
 - once the status of a build is "success" or "error", it becomes immutable
 - this should update the underlying versions to the proper status
-
-# Guidelines
-
-- you should write the code in node 7.6+
-- favor a relational database
-- We should be able to run the code on our end in a few steps. Please provide a comprehensive README
-- We tend to pay attention to the organization of code
-- (bonus) Provide testing
-- (bonus) Provide a section of how you would deploy this code
-- (bonus) How would you handle the failure scenario for comparisons? (e.g. no PATCH request is ever received)
