@@ -10,6 +10,12 @@ Questions are always welcome at developers@waldo.io
 If you're wondering what this API is actually used for, you can have a look at https://github.com/waldoapp/frontend-challenge
 for our end goal.
 
+# Submit
+
+Please add @laurentsigal or @VincentJaouen as a contributor to your github repository.
+Otherwise you can simply host the code anywhere and give us a link to the zip file.
+Do not make your repository public.
+
 # Guidelines
 
 - you should write the code in node 7.6+
