@@ -20,6 +20,15 @@ Do not make your repository public.
 
 # Guidelines
 
+The goal of this challenge is to see how you would structure a simple API service.
+
+We require it to be written in Node (8+ is better). This is what we use thoroughly at Waldo, and even though it might not be your favorite language at the time, this is what you would end up using at Waldo.
+
+Please do not use a complex framework in order to solve for this. It tends to provide too much functionality for free, which defies the purpose of the challenge. It also makes the code very hard to read in the absence of knowledge of said framework.
+
+Packages are always encouraged of course (http frameworks like koa or express ; db connectors ; etc..).
+
+Checklist:
 - you should write the code in node 7.6+
 - favor a relational database
 - We should be able to run the code on our end in a few steps. Please provide a comprehensive README
@@ -30,7 +39,7 @@ Do not make your repository public.
 
 # Flow of actions
 
-The client needs to
+The client needs to:
 - create an application object, corresponding to an entity in the App Store.
 - upload new versions of this application
 - compare existing versions of the application together
