@@ -29,7 +29,7 @@ Please do not use a complex framework in order to solve for this. It tends to pr
 Packages are always encouraged of course (http frameworks like koa or express ; db connectors ; etc..).
 
 Checklist:
-- you should write the code in node 7.6+
+- you should write the code in node
 - favor a relational database
 - We should be able to run the code on our end in a few steps. Please provide a comprehensive README
 - We tend to pay attention to the organization of code
