@@ -22,7 +22,7 @@ Do not make your repository public.
 
 The goal of this challenge is to see how you would structure a simple API service.
 
-We require it to be written in Node (8+ is better). This is what we use thoroughly at Waldo, and even though it might not be your favorite language at the time, this is what you would end up using at Waldo.
+We require it to be written in Node (12+ is better). This is what we use thoroughly at Waldo, and even though it might not be your favorite language at the time, this is what you would end up using at Waldo.
 
 Please do not use a complex framework in order to solve for this. It tends to provide too much functionality for free, which defies the purpose of the challenge. It also makes the code very hard to read in the absence of knowledge of said framework.
 
