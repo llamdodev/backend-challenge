@@ -12,9 +12,7 @@ for our end goal.
 
 ## Submit
 
-Please zip your repo once your work is complete and send it to developers@waldo.io.
-
-Do not make your repository public.
+You should have received an upload link from us. Please zip your work once it's complete and upload it there.
 
 # Guidelines
 
